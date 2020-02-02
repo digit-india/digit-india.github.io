@@ -1,0 +1,102 @@
+.main-bg-img{
+    background: url(../images/Bolsonaro-Rashtrapati-Bhavan.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    max-width: 767px;
+    margin: 0 auto;
+}
+.secondary-bg-img{
+    background: url(../images/wto_headquarter.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    max-width: 767px;
+    margin: 0 auto;
+}
+.third-bg-img{
+    background: url(../images/sugarcane.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    max-width: 767px;
+    margin: 0 auto;
+}
+
+.text-heading{
+    font-family: 'Cambay', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    padding-left: 26px;
+    padding-right: 15px;
+    padding-top: 70px;
+    max-width: 767px;
+    margin: 0 auto;
+}
+.timestamp{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    padding-left: 26px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 767px;
+    margin: 0 auto;
+}
+.paragraph{
+    font-family: 'Cambay', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    padding-left: 26px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 767px;
+    margin: 0 auto;
+}
+.end-paragraph{
+    padding-bottom: 70px;
+}
+
+@media (max-width: 450px) {
+    .main-bg-img{
+        min-height: 69.44444444444444VW;
+    }
+    .secondary-bg-img{
+        min-height: 69.44444444444444VW;
+    }
+
+    .text-heading{
+        font-size: 7.777777777777778VW;
+        padding-left: 7.222222222222221VW;
+        padding-right: 4.166666666666666VW;
+        padding-top: 19.444444444444446VW;
+    }
+    .timestamp{
+        font-size: 3.3333333333333335VW;
+        padding-left: 7.222222222222221VW;
+        padding-right: 4.166666666666666VW;
+        padding-top: 2.7777777777777777VW;
+        padding-bottom: 2.7777777777777777VW;
+    }
+    .paragraph{
+        font-size: 4.444444444444445VW;
+        padding-left: 7.222222222222221VW;
+        padding-right: 4.166666666666666VW;
+        padding-top: 2.7777777777777777VW;
+        padding-bottom: 2.7777777777777777VW;
+    }
+}
