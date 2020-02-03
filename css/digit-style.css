@@ -1,23 +1,23 @@
 .main-bg-img{
     background: url(../images/Bolsonaro-Rashtrapati-Bhavan.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
     min-height: 400px;
     max-width: 767px;
     margin: 0 auto;
 }
 .secondary-bg-img{
     background: url(../images/wto_headquarter.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
     min-height: 400px;
     max-width: 767px;
     margin: 0 auto;
 }
 .third-bg-img{
     background: url(../images/sugarcane.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
     min-height: 400px;
     max-width: 767px;
     margin: 0 auto;
